@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import PostWidget from './components/poster/postWidget';
 
 const postWidget = new PostWidget('.container');
